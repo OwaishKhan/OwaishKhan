@@ -111,8 +111,12 @@ Working On:
 ---
 # 📈 Contribution Graph
 
-[![Owaish github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Owaishkhan&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/Owaishkhan)
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Owaishkhan&theme=tokyonight" />
+
+</div>
+</div>
 # 🏆 GitHub Trophies
 
 <div align="center">
