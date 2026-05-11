@@ -214,17 +214,6 @@ Working On:
 
 ---
 
-# 🌟 Fun Fact
-
-<div align="center">
-
-```diff
-+ I turn coffee ☕ into scalable applications 🚀
-```
-
-</div>
-
----
 
 # ✨ Random Dev Quote
 
